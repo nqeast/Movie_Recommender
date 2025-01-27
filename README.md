@@ -4,6 +4,9 @@ A Python-based movie recommendation system built using collaborative filtering w
 
 ---
 
+## **App Preview**
+![Preview](https://github.com/nqeast/Movie_Recommender/blob/master/movie_rec_app.gif)
+
 ## **Features**
 - Collaborative filtering-based movie recommendation engine.
 - Predict ratings for movies a user hasn’t watched.
